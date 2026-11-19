@@ -1,0 +1,9 @@
+queue=[]
+queue.append('A')
+queue.append('B')
+print(queue)
+frontelement=queue[0]
+print("peek:",frontelement)
+dequeued=queue.pop(0)
+print("dequeued:",dequeued)
+print("size:",len(queue))
