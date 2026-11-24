@@ -145,6 +145,7 @@ Just to Test!
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/shaik-salma-18/leetcode-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/shaik-salma-18/leetcode-/tree/main/0206-reverse-linked-list/) | Easy |
+| [0707-design-linked-list](https://github.com/shaik-salma-18/leetcode-/tree/main/0707-design-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,6 +159,7 @@ Just to Test!
 | ------- | ------- |
 | [0155-min-stack](https://github.com/shaik-salma-18/leetcode-/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/shaik-salma-18/leetcode-/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0707-design-linked-list](https://github.com/shaik-salma-18/leetcode-/tree/main/0707-design-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
