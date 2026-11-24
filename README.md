@@ -26,6 +26,7 @@ Just to Test!
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shaik-salma-18/leetcode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/shaik-salma-18/leetcode-/tree/main/0020-valid-parentheses/) | Easy |
+| [0224-basic-calculator](https://github.com/shaik-salma-18/leetcode-/tree/main/0224-basic-calculator/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@ Just to Test!
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/shaik-salma-18/leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/shaik-salma-18/leetcode-/tree/main/0155-min-stack/) | Medium |
+| [0224-basic-calculator](https://github.com/shaik-salma-18/leetcode-/tree/main/0224-basic-calculator/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +113,7 @@ Just to Test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/shaik-salma-18/leetcode-/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0224-basic-calculator](https://github.com/shaik-salma-18/leetcode-/tree/main/0224-basic-calculator/) | Hard |
 | [1486-xor-operation-in-an-array](https://github.com/shaik-salma-18/leetcode-/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -154,6 +157,7 @@ Just to Test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/shaik-salma-18/leetcode-/tree/main/0206-reverse-linked-list/) | Easy |
+| [0224-basic-calculator](https://github.com/shaik-salma-18/leetcode-/tree/main/0224-basic-calculator/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
