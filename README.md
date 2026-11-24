@@ -8,6 +8,7 @@ Just to Test!
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shaik-salma-18/leetcode-/tree/main/0001-two-sum/) | Easy |
 | [0056-merge-intervals](https://github.com/shaik-salma-18/leetcode-/tree/main/0056-merge-intervals/) | Medium |
+| [0120-triangle](https://github.com/shaik-salma-18/leetcode-/tree/main/0120-triangle/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/shaik-salma-18/leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0733-flood-fill](https://github.com/shaik-salma-18/leetcode-/tree/main/0733-flood-fill/) | Easy |
 ## Hash Table
@@ -112,6 +113,7 @@ Just to Test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/shaik-salma-18/leetcode-/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0120-triangle](https://github.com/shaik-salma-18/leetcode-/tree/main/0120-triangle/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
