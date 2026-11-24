@@ -10,6 +10,7 @@ Just to Test!
 | [0056-merge-intervals](https://github.com/shaik-salma-18/leetcode-/tree/main/0056-merge-intervals/) | Medium |
 | [0120-triangle](https://github.com/shaik-salma-18/leetcode-/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shaik-salma-18/leetcode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shaik-salma-18/leetcode-/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/shaik-salma-18/leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0733-flood-fill](https://github.com/shaik-salma-18/leetcode-/tree/main/0733-flood-fill/) | Easy |
 ## Hash Table
@@ -116,9 +117,14 @@ Just to Test!
 | [0096-unique-binary-search-trees](https://github.com/shaik-salma-18/leetcode-/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0120-triangle](https://github.com/shaik-salma-18/leetcode-/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shaik-salma-18/leetcode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shaik-salma-18/leetcode-/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/shaik-salma-18/leetcode-/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/shaik-salma-18/leetcode-/tree/main/0098-validate-binary-search-tree/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shaik-salma-18/leetcode-/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 <!---LeetCode Topics End-->
