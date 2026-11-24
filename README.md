@@ -20,6 +20,7 @@ Just to Test!
 | [0001-two-sum](https://github.com/shaik-salma-18/leetcode-/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shaik-salma-18/leetcode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/shaik-salma-18/leetcode-/tree/main/0141-linked-list-cycle/) | Easy |
+| [0242-valid-anagram](https://github.com/shaik-salma-18/leetcode-/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/shaik-salma-18/leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -27,6 +28,7 @@ Just to Test!
 | [0003-longest-substring-without-repeating-characters](https://github.com/shaik-salma-18/leetcode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/shaik-salma-18/leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0224-basic-calculator](https://github.com/shaik-salma-18/leetcode-/tree/main/0224-basic-calculator/) | Hard |
+| [0242-valid-anagram](https://github.com/shaik-salma-18/leetcode-/tree/main/0242-valid-anagram/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +52,7 @@ Just to Test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/shaik-salma-18/leetcode-/tree/main/0056-merge-intervals/) | Medium |
+| [0242-valid-anagram](https://github.com/shaik-salma-18/leetcode-/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/shaik-salma-18/leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
