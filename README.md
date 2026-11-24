@@ -29,6 +29,7 @@ Just to Test!
 | [0020-valid-parentheses](https://github.com/shaik-salma-18/leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0224-basic-calculator](https://github.com/shaik-salma-18/leetcode-/tree/main/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/shaik-salma-18/leetcode-/tree/main/0242-valid-anagram/) | Easy |
+| [0844-backspace-string-compare](https://github.com/shaik-salma-18/leetcode-/tree/main/0844-backspace-string-compare/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@ Just to Test!
 | [0155-min-stack](https://github.com/shaik-salma-18/leetcode-/tree/main/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/shaik-salma-18/leetcode-/tree/main/0224-basic-calculator/) | Hard |
 | [0232-implement-queue-using-stacks](https://github.com/shaik-salma-18/leetcode-/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0844-backspace-string-compare](https://github.com/shaik-salma-18/leetcode-/tree/main/0844-backspace-string-compare/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +152,7 @@ Just to Test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/shaik-salma-18/leetcode-/tree/main/0141-linked-list-cycle/) | Easy |
+| [0844-backspace-string-compare](https://github.com/shaik-salma-18/leetcode-/tree/main/0844-backspace-string-compare/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,4 +184,8 @@ Just to Test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/shaik-salma-18/leetcode-/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/shaik-salma-18/leetcode-/tree/main/0844-backspace-string-compare/) | Easy |
 <!---LeetCode Topics End-->
