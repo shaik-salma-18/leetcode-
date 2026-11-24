@@ -90,4 +90,12 @@ Just to Test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/shaik-salma-18/leetcode-/tree/main/0056-merge-intervals/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1486-xor-operation-in-an-array](https://github.com/shaik-salma-18/leetcode-/tree/main/1486-xor-operation-in-an-array/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1486-xor-operation-in-an-array](https://github.com/shaik-salma-18/leetcode-/tree/main/1486-xor-operation-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
