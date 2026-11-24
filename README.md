@@ -37,6 +37,7 @@ Just to Test!
 | [0020-valid-parentheses](https://github.com/shaik-salma-18/leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/shaik-salma-18/leetcode-/tree/main/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/shaik-salma-18/leetcode-/tree/main/0224-basic-calculator/) | Hard |
+| [0232-implement-queue-using-stacks](https://github.com/shaik-salma-18/leetcode-/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +154,7 @@ Just to Test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/shaik-salma-18/leetcode-/tree/main/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/shaik-salma-18/leetcode-/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,4 +172,8 @@ Just to Test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/shaik-salma-18/leetcode-/tree/main/0207-course-schedule/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/shaik-salma-18/leetcode-/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
