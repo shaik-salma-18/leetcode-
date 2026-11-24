@@ -11,6 +11,7 @@ Just to Test!
 | [0120-triangle](https://github.com/shaik-salma-18/leetcode-/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shaik-salma-18/leetcode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shaik-salma-18/leetcode-/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0136-single-number](https://github.com/shaik-salma-18/leetcode-/tree/main/0136-single-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/shaik-salma-18/leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0733-flood-fill](https://github.com/shaik-salma-18/leetcode-/tree/main/0733-flood-fill/) | Easy |
 ## Hash Table
@@ -110,6 +111,7 @@ Just to Test!
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/shaik-salma-18/leetcode-/tree/main/0136-single-number/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/shaik-salma-18/leetcode-/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
