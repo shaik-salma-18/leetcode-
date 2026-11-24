@@ -61,6 +61,7 @@ Just to Test!
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/shaik-salma-18/leetcode-/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/shaik-salma-18/leetcode-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/shaik-salma-18/leetcode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
@@ -71,6 +72,7 @@ Just to Test!
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/shaik-salma-18/leetcode-/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/shaik-salma-18/leetcode-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/shaik-salma-18/leetcode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
@@ -93,9 +95,18 @@ Just to Test!
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/shaik-salma-18/leetcode-/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/shaik-salma-18/leetcode-/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/shaik-salma-18/leetcode-/tree/main/1486-xor-operation-in-an-array/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/shaik-salma-18/leetcode-/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/shaik-salma-18/leetcode-/tree/main/0096-unique-binary-search-trees/) | Medium |
 <!---LeetCode Topics End-->
