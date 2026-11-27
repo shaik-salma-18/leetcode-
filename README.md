@@ -14,6 +14,7 @@ Just to Test!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shaik-salma-18/leetcode-/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/shaik-salma-18/leetcode-/tree/main/0136-single-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/shaik-salma-18/leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0496-next-greater-element-i](https://github.com/shaik-salma-18/leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0733-flood-fill](https://github.com/shaik-salma-18/leetcode-/tree/main/0733-flood-fill/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -23,6 +24,7 @@ Just to Test!
 | [0141-linked-list-cycle](https://github.com/shaik-salma-18/leetcode-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0242-valid-anagram](https://github.com/shaik-salma-18/leetcode-/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/shaik-salma-18/leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0496-next-greater-element-i](https://github.com/shaik-salma-18/leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +44,7 @@ Just to Test!
 | [0155-min-stack](https://github.com/shaik-salma-18/leetcode-/tree/main/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/shaik-salma-18/leetcode-/tree/main/0224-basic-calculator/) | Hard |
 | [0232-implement-queue-using-stacks](https://github.com/shaik-salma-18/leetcode-/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0496-next-greater-element-i](https://github.com/shaik-salma-18/leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0844-backspace-string-compare](https://github.com/shaik-salma-18/leetcode-/tree/main/0844-backspace-string-compare/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -194,4 +197,8 @@ Just to Test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/shaik-salma-18/leetcode-/tree/main/0844-backspace-string-compare/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/shaik-salma-18/leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
