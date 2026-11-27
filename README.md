@@ -17,6 +17,7 @@ Just to Test!
 | [0347-top-k-frequent-elements](https://github.com/shaik-salma-18/leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shaik-salma-18/leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0733-flood-fill](https://github.com/shaik-salma-18/leetcode-/tree/main/0733-flood-fill/) | Easy |
+| [1091-shortest-path-in-binary-matrix](https://github.com/shaik-salma-18/leetcode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +97,7 @@ Just to Test!
 | [0207-course-schedule](https://github.com/shaik-salma-18/leetcode-/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/shaik-salma-18/leetcode-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/shaik-salma-18/leetcode-/tree/main/0733-flood-fill/) | Easy |
+| [1091-shortest-path-in-binary-matrix](https://github.com/shaik-salma-18/leetcode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/shaik-salma-18/leetcode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -126,6 +128,7 @@ Just to Test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0733-flood-fill](https://github.com/shaik-salma-18/leetcode-/tree/main/0733-flood-fill/) | Easy |
+| [1091-shortest-path-in-binary-matrix](https://github.com/shaik-salma-18/leetcode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
