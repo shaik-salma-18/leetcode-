@@ -125,6 +125,7 @@ Just to Test!
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/shaik-salma-18/leetcode-/tree/main/0002-add-two-numbers/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/shaik-salma-18/leetcode-/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0224-basic-calculator](https://github.com/shaik-salma-18/leetcode-/tree/main/0224-basic-calculator/) | Hard |
 | [1486-xor-operation-in-an-array](https://github.com/shaik-salma-18/leetcode-/tree/main/1486-xor-operation-in-an-array/) | Easy |
@@ -153,6 +154,7 @@ Just to Test!
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/shaik-salma-18/leetcode-/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/shaik-salma-18/leetcode-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/shaik-salma-18/leetcode-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/shaik-salma-18/leetcode-/tree/main/0206-reverse-linked-list/) | Easy |
@@ -178,6 +180,7 @@ Just to Test!
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/shaik-salma-18/leetcode-/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/shaik-salma-18/leetcode-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/shaik-salma-18/leetcode-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0224-basic-calculator](https://github.com/shaik-salma-18/leetcode-/tree/main/0224-basic-calculator/) | Hard |
