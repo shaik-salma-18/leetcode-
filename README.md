@@ -96,6 +96,7 @@ Just to Test!
 | [0207-course-schedule](https://github.com/shaik-salma-18/leetcode-/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/shaik-salma-18/leetcode-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/shaik-salma-18/leetcode-/tree/main/0733-flood-fill/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/shaik-salma-18/leetcode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +117,7 @@ Just to Test!
 | [0226-invert-binary-tree](https://github.com/shaik-salma-18/leetcode-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/shaik-salma-18/leetcode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/shaik-salma-18/leetcode-/tree/main/0733-flood-fill/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/shaik-salma-18/leetcode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,6 +198,7 @@ Just to Test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/shaik-salma-18/leetcode-/tree/main/0207-course-schedule/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/shaik-salma-18/leetcode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,4 +223,8 @@ Just to Test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/shaik-salma-18/leetcode-/tree/main/0075-sort-colors/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/shaik-salma-18/leetcode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
