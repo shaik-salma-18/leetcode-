@@ -15,6 +15,7 @@ Just to Test!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shaik-salma-18/leetcode-/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/shaik-salma-18/leetcode-/tree/main/0136-single-number/) | Easy |
 | [0198-house-robber](https://github.com/shaik-salma-18/leetcode-/tree/main/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/shaik-salma-18/leetcode-/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/shaik-salma-18/leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shaik-salma-18/leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0733-flood-fill](https://github.com/shaik-salma-18/leetcode-/tree/main/0733-flood-fill/) | Easy |
@@ -98,6 +99,7 @@ Just to Test!
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaik-salma-18/leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0207-course-schedule](https://github.com/shaik-salma-18/leetcode-/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/shaik-salma-18/leetcode-/tree/main/0226-invert-binary-tree/) | Easy |
+| [0322-coin-change](https://github.com/shaik-salma-18/leetcode-/tree/main/0322-coin-change/) | Medium |
 | [0733-flood-fill](https://github.com/shaik-salma-18/leetcode-/tree/main/0733-flood-fill/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shaik-salma-18/leetcode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/shaik-salma-18/leetcode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -156,6 +158,7 @@ Just to Test!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shaik-salma-18/leetcode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shaik-salma-18/leetcode-/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/shaik-salma-18/leetcode-/tree/main/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/shaik-salma-18/leetcode-/tree/main/0322-coin-change/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -234,4 +237,12 @@ Just to Test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/shaik-salma-18/leetcode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/shaik-salma-18/leetcode-/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/shaik-salma-18/leetcode-/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
