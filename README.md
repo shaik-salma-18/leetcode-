@@ -17,6 +17,7 @@ Just to Test!
 | [0198-house-robber](https://github.com/shaik-salma-18/leetcode-/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/shaik-salma-18/leetcode-/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/shaik-salma-18/leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/shaik-salma-18/leetcode-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shaik-salma-18/leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0733-flood-fill](https://github.com/shaik-salma-18/leetcode-/tree/main/0733-flood-fill/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shaik-salma-18/leetcode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -159,6 +160,7 @@ Just to Test!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shaik-salma-18/leetcode-/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/shaik-salma-18/leetcode-/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/shaik-salma-18/leetcode-/tree/main/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/shaik-salma-18/leetcode-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -241,8 +243,13 @@ Just to Test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/shaik-salma-18/leetcode-/tree/main/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/shaik-salma-18/leetcode-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/shaik-salma-18/leetcode-/tree/main/0322-coin-change/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/shaik-salma-18/leetcode-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
