@@ -83,6 +83,7 @@ Just to Test!
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/shaik-salma-18/leetcode-/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/shaik-salma-18/leetcode-/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/shaik-salma-18/leetcode-/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/shaik-salma-18/leetcode-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaik-salma-18/leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/shaik-salma-18/leetcode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -98,6 +99,7 @@ Just to Test!
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/shaik-salma-18/leetcode-/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/shaik-salma-18/leetcode-/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/shaik-salma-18/leetcode-/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/shaik-salma-18/leetcode-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaik-salma-18/leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/shaik-salma-18/leetcode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -105,6 +107,7 @@ Just to Test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shaik-salma-18/leetcode-/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/shaik-salma-18/leetcode-/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaik-salma-18/leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0207-course-schedule](https://github.com/shaik-salma-18/leetcode-/tree/main/0207-course-schedule/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/shaik-salma-18/leetcode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -147,6 +150,7 @@ Just to Test!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shaik-salma-18/leetcode-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/shaik-salma-18/leetcode-/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/shaik-salma-18/leetcode-/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/shaik-salma-18/leetcode-/tree/main/0099-recover-binary-search-tree/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
