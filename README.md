@@ -9,6 +9,7 @@ Just to Test!
 | [0001-two-sum](https://github.com/shaik-salma-18/leetcode-/tree/main/0001-two-sum/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shaik-salma-18/leetcode-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0056-merge-intervals](https://github.com/shaik-salma-18/leetcode-/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/shaik-salma-18/leetcode-/tree/main/0075-sort-colors/) | Medium |
 | [0120-triangle](https://github.com/shaik-salma-18/leetcode-/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shaik-salma-18/leetcode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shaik-salma-18/leetcode-/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -58,6 +59,7 @@ Just to Test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/shaik-salma-18/leetcode-/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/shaik-salma-18/leetcode-/tree/main/0075-sort-colors/) | Medium |
 | [0242-valid-anagram](https://github.com/shaik-salma-18/leetcode-/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/shaik-salma-18/leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
@@ -119,6 +121,7 @@ Just to Test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/shaik-salma-18/leetcode-/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/shaik-salma-18/leetcode-/tree/main/0075-sort-colors/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,6 +161,7 @@ Just to Test!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/shaik-salma-18/leetcode-/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/shaik-salma-18/leetcode-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0844-backspace-string-compare](https://github.com/shaik-salma-18/leetcode-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/shaik-salma-18/leetcode-/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -201,4 +205,8 @@ Just to Test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/shaik-salma-18/leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/shaik-salma-18/leetcode-/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
